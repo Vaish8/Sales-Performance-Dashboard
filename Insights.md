@@ -4,6 +4,8 @@
 ## Sales Trends
 - **Seasonal Demand**: Sales trends show a peak in month the month of December which indicates the seasonal demand.
 - **Growth Analysis**: There is a consistent growth pattern over the year, with noticeable spikes during holiday seasons.
+- ![Sales Analysis Power BI](https://github.com/user-attachments/assets/17a6bd86-b98d-413a-b73f-195e8c1f7152)
+
 
 ## Product Performance
 - **Top Sellers**: MacBook Pro Laptop, Iphone, and Thinkpad Laptop are consistently top sellers, contributing to almost 50% of total sales.
